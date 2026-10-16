@@ -1,0 +1,22 @@
+Date,Day,Main Task,Sub Task
+14-05-2025,wednesday,1.,print issue results analysis
+14-05-2025,wednesday,1.,- udpated the results in task comments
+14-05-2025,wednesday,1.,- updated the summary upon investigation
+14-05-2025,wednesday,1.,- check old rolls dimensions
+14-05-2025,wednesday,1.,increase the tape top length in spec
+14-05-2025,wednesday,2.,rolls decrease the length
+14-05-2025,wednesday,2.,3
+14-05-2025,wednesday,2.,rolls ku tape top oda spec - 4x4
+15-05-2025,thursday,1.,shopify learning
+15-05-2025,thursday,2.,tech meeting
+15-05-2025,thursday,2.,- prefill enna panna porom
+15-05-2025,thursday,2.,- in technical - code level discuss with subash -
+15-05-2025,thursday,2.,- globad prefill if possible
+15-05-2025,thursday,2.,- color indications
+15-05-2025,thursday,2.,- remove max limit after complete load test - but we using background processings
+15-05-2025,thursday,2.,-
+15-05-2025,thursday,3.,prefill investigation
+15-05-2025,thursday,3.,two changes behind the scenes
+15-05-2025,thursday,3.,- store only leading variants configurations instead of storing all
+15-05-2025,thursday,3.,- apply button trigger - editedVariants - StoreConfiguredLines -
+15-05-2025,thursday,3.,- retrive and prefill using leading variant configurations
